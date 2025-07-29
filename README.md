@@ -16,11 +16,9 @@
 ## How to Run Locally
 
 1. Install dependencies:
-   bash
    npm install
    
 2. Start the server:
-   bash
    node index.js
    
 3. The server will run on http://localhost:5000 by default.

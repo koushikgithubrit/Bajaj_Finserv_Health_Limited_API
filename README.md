@@ -1,8 +1,5 @@
 # Bajaj_Finserv_Health_Limited_API
 
-
-This project implements a REST API for the Chitkara Full Stack Question Paper using Node.js and Express.
-
 ## Features
 - POST /bfhl endpoint that processes an array and returns:
   - Status
